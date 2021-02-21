@@ -1,0 +1,129 @@
+.container{
+    margin-bottom: 100px;
+}
+#butt{
+    margin: 0;
+    margin-left: 5px;
+}
+
+
+#soykot{
+    background-color:#F0FFF0;
+    height: 650px;
+    margin-bottom: 100px;
+}
+
+#logopic{
+    margin-left: 120px;
+}
+
+.button{
+
+    color: #FFF;
+    background-color:#21B573;
+    border-radius: 25px;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 12px;
+}
+
+#on{
+    color: black;
+    font-size: 50px;
+    font-weight:750;
+}
+
+#Learn{
+    color: black;
+    font-size: 50px;
+    font-weight:750;
+}
+
+#Are-you-ready{
+    color:red   
+}
+
+
+#on-any-schedule{
+    color:   #21B573;
+    font-size: 50px;
+    font-weight:750;  
+}
+
+#catpic{
+    padding: 5px;
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+
+
+
+.cetagory:hover{
+    background-color: #F8FFFB;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px lightgray;   
+}
+
+.Online-Courses{
+    margin-bottom: 50px;
+}
+
+
+.ceta{
+    padding: 30px;
+}
+
+
+
+.card-footer{
+    border: none;
+    background-color: #FFF;
+}
+
+#fotter-text{
+    margin: auto;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px lightgray;
+}
+
+
+.crad-padding{
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.Testimonial{
+    margin-bottom: 50px;
+}
+
+
+.last-sec{
+    background-color:#282531;
+    height: 350px;
+    color: #FFF;
+    padding: 55px;
+}
+
+.footer{
+    margin-top: 50px;
+    color:rgb(207, 201, 201);
+}
+
+.ul-degain{
+    color: rgb(223, 222, 222);
+    list-style: none;
+}
+
+#list-titel{
+    color:#FFF;
+}
+
+#millions{
+    color:#FFF;
+    margin: auto;  
+}
+
